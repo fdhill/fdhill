@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @fdhill
+- 👀 I'm interested in something
+- 🌱 I'm currently learning java, js, flutter
+- 📫 How to contact me instagram @fadhil.ahnaf11
+- ⚡ Fun fact: I like playing games
