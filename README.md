@@ -26,8 +26,8 @@ I'm a **Software Engineering Student** focusing on **Mobile App Development** an
 ---
 
 ### 📊 GitHub Stats:
-![Fadhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical)
+![Fadhil's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical)
 
 ---
 
