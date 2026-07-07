@@ -16,10 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fdhill&label=Profile%20views&color=ff1493&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -51,19 +47,25 @@
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET"/>
   <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing"/>
   <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Windows Forms"/>
 </p>
 
-### 🧰 Tools & Databases
+### 🧰 Tools
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Apidog-2BAAFF?style=for-the-badge&logo=apidog&logoColor=white" alt="Apidog"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 ---
@@ -76,7 +78,6 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=fdhill&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
