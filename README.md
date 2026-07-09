@@ -77,6 +77,10 @@
 </p>
 
 <p align="center">
+  <img height="180" src="https://streak-stats.demolab.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
+</p>
+
+<p align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
