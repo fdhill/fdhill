@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
 </p>
 
 <p align="center">
