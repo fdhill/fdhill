@@ -31,18 +31,13 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake Animation
+## 📈 GitHub Contribution & Activity Chart
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fdhill/fdhill/output/github-contribution-grid-snake-dark.svg" alt="Fadhil's GitHub Contribution Snake Animation" width="100%" />
-</div>
 
----
+<!-- Grafik Kontribusi Bulanan dengan Gradasi Warna Kustom (Tanpa Snake) -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fdhill&theme=radical&hide_border=true&area=true" alt="Fadhil's Contribution Graph" />
 
-## 📈 GitHub Activity Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fdhill&theme=radical&hide_border=true" alt="Fadhil's GitHub Activity Graph" />
 </div>
 
 ---
