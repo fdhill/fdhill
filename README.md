@@ -77,16 +77,6 @@
 
 ---
 
-## 📈 GitHub Contribution & Activity Chart
-
-<div align="center">
-  <img width="100%" src="./contribution-graph.svg" alt="Fadhil's Contribution Graph"/>
-  <br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fdhill&theme=radical&hide_border=true&area=true" alt="Fadhil's Activity Graph"/>
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
