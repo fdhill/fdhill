@@ -20,6 +20,15 @@ jobs:
         with:
           node-version: "20"
 
+      - name: Debug - list files
+        run: |
+          echo "=== root ==="
+          ls -la
+          echo "=== .github ==="
+          ls -la .github || echo ".github tidak ada"
+          echo "=== .github/scripts ==="
+          ls -la .github/scripts || echo ".github/scripts tidak ada"
+
       - name: Generate graph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
