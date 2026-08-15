@@ -67,26 +67,23 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td width="50%"><img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/></td>
-    <td width="50%"><img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&cache_seconds=1800" alt="Top Languages"/></td>
-  </tr>
-</table>
+<div align="center">
+  <img width="480" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
+  <br/>
+  <img width="480" src="https://github-readme-streak-stats-eight.vercel.app/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
+  <br/>
+  <img width="480" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
+</div>
 
 ---
 
 ## 📈 GitHub Contribution & Activity Chart
 
-<table align="center">
-  <tr>
-    <td width="50%"><img width="100%" src="./contribution-graph.svg" alt="Fadhil's Contribution Graph"/></td>
-    <td width="50%"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fdhill&theme=radical&hide_border=true&area=true" alt="Fadhil's Activity Graph"/></td>
-  </tr>
-</table>
+<div align="center">
+  <img width="480" src="./contribution-graph.svg" alt="Fadhil's Contribution Graph"/>
+  <br/>
+  <img width="480" src="https://github-readme-activity-graph.vercel.app/graph?username=fdhill&theme=radical&hide_border=true&area=true" alt="Fadhil's Activity Graph"/>
+</div>
 
 ---
 
