@@ -31,33 +31,6 @@
 
 ---
 
-## 📈 GitHub Contribution & Activity Chart
-
-<div align="center">
-
-<img src="./contribution-graph.svg" alt="Fadhil's Contribution Graph" />
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fdhill&theme=radical&hide_border=true&area=true" alt="Fadhil's Contribution Graph" />
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
-  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
-</div>
-
-
-<br/>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -89,6 +62,31 @@
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td width="50%"><img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/></td>
+    <td width="50%"><img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&cache_seconds=1800" alt="Top Languages"/></td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Contribution & Activity Chart
+
+<table align="center">
+  <tr>
+    <td width="50%"><img width="100%" src="./contribution-graph.svg" alt="Fadhil's Contribution Graph"/></td>
+    <td width="50%"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fdhill&theme=radical&hide_border=true&area=true" alt="Fadhil's Activity Graph"/></td>
+  </tr>
+</table>
 
 ---
 
