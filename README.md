@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<!-- Grafik Kontribusi Bulanan dengan Gradasi Warna Kustom (Tanpa Snake) -->
+<img src="./contribution-graph.svg" alt="Fadhil's Contribution Graph" />
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fdhill&theme=radical&hide_border=true&area=true" alt="Fadhil's Contribution Graph" />
 
 </div>
@@ -48,6 +48,7 @@
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
   <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
 </div>
+
 
 <br/>
 
