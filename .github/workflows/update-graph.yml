@@ -24,7 +24,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: fdhill
-        run: node scripts/generate-dot-graph.js
+        run: node .github/scripts/generate-dot-graph.js
 
       - name: Commit and push if changed
         run: |
