@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Fadhil Ahnaf 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Software Engineering Student</b> · Mobile App & Backend Developer
-</p>
+# Hi there, I'm Fadhil Ahnaf 👋
+### Software Engineering Student · Mobile App & Backend Developer
+
+🎓 **Telkom University**
 
 <p align="center">
   <a href="https://linkedin.com/in/fadhil-ahnaf" target="_blank">
@@ -16,6 +17,8 @@
   </a>
 </p>
 
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -28,10 +31,40 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake Animation
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fdhill/fdhill/output/github-contribution-grid-snake-dark.svg" alt="Fadhil's GitHub Contribution Snake Animation" width="100%" />
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fdhill&theme=radical&hide_border=true" alt="Fadhil's GitHub Activity Graph" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
 <p>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
@@ -43,7 +76,6 @@
 </p>
 
 ### 🧩 Frameworks
-
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
@@ -53,35 +85,13 @@
   <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="Windows Forms"/>
 </p>
 
-### 🧰 Tools
-
+### 🧰 Tools & Databases
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/Apidog-2BAAFF?style=for-the-badge&logo=apidog&logoColor=white" alt="Apidog"/>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
@@ -99,3 +109,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=fdhill&color=8a2be2&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
