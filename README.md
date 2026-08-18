@@ -67,12 +67,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
-  <img height="200" src="https://streak-stats.demolab.com/?user=fdhill&theme=radical" alt="GitHub Streak"/>
-  <br/>
-  <img width="480" src="https://github-readme-stats-ten-xi-26.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&count_private=true" alt="Top Languages"/>
-</div>
+<img width="480" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
+<br/>
+<img width="480" src="https://streak-stats.demolab.com/?user=fdhill&theme=radical" alt="GitHub Streak"/>
+<br/>
+<img width="480" src="https://github-readme-stats-ten-xi-26.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&count_private=true" alt="Top Languages"/>
 
 ---
 
