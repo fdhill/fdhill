@@ -67,13 +67,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
-  <br/>
-  <img width="400" src="https://streak-stats.demolab.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
-  <br/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
-</div>
+<img width="400" src="https://github-readme-stats-sigma-black.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
+<br/>
+<img width="400" src="https://streak-stats.demolab.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
+<br/>
+<img width="400" src="https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
 
 ---
 
