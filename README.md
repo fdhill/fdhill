@@ -68,20 +68,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<table style="border-collapse: collapse; border: 2px solid #30363d;">
+<table>
 <tr>
-<td valign="top" style="border: 2px solid #30363d; padding: 0;">
-<table style="border-collapse: collapse; width: 100%;">
-<tr><td style="border-bottom: 2px solid #30363d; padding: 0;">
+<td valign="top">
 <img width="350" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" alt="Fadhil's GitHub stats"/>
-</td></tr>
-<tr><td style="padding: 0;">
+<br/>
 <img width="350" src="https://streak-stats.demolab.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
-</td></tr>
-</table>
 </td>
-<td valign="top" style="border: 2px solid #30363d; padding: 0;">
-<img width="350" src="https://github-readme-stats-ten-xi-26.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=12&count_private=true" alt="Top Languages"/>
+<td valign="top">
+<img width="350" src="https://github-readme-stats-ten-xi-26.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=11&count_private=true" alt="Top Languages"/>
 </td>
 </tr>
 </table>
