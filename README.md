@@ -68,11 +68,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="335" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true&hide=issues" alt="Fadhil's GitHub stats"/>
-  <br/>
-  <img width="335" src="https://streak-stats.demolab.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
-  <br/>
-  <img width="335" src="https://github-readme-stats-ten-xi-26.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&count_private=true" alt="Top Languages"/>
+<table>
+<tr>
+<td valign="top">
+<img width="350" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true" alt="Fadhil's GitHub stats"/>
+<br/>
+<img width="350" src="https://streak-stats.demolab.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
+</td>
+<td valign="top">
+<img width="350" src="https://github-readme-stats-ten-xi-26.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=10&count_private=true" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
