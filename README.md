@@ -71,7 +71,7 @@
 <table>
 <tr>
 <td valign="top">
-<img width="350" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Fadhil's GitHub stats&hide_rank=true"/>
+<img width="350" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" alt="Fadhil's GitHub stats"/>
 <br/>
 <img width="350" src="https://streak-stats.demolab.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
 </td>
