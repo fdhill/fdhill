@@ -68,11 +68,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img width="450" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" alt="Fadhil's GitHub stats"/>
+<img width="300" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" alt="Fadhil's GitHub stats"/>
 <br/>
-<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
+<img width="300" src="https://github-readme-streak-stats.herokuapp.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
 <br/>
-<img width="450" src="https://github-readme-stats-ten-xi-26.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=8&count_private=true" alt="Top Languages"/>
+<img width="300" src="https://github-readme-stats-ten-xi-26.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=8&count_private=true" alt="Top Languages"/>
 </div>
 
 ---
