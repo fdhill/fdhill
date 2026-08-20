@@ -74,7 +74,7 @@
 <img width="260" src="https://github-readme-stats-ten-xi-26.vercel.app/api?username=fdhill&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_rank=true" alt="Fadhil's GitHub stats"/>
 </td>
 <td valign="middle">
-<img width="310" src="https://github-readme-streak-stats.herokuapp.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
+<img width="340" src="https://github-readme-streak-stats.herokuapp.com/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
 </td>
 <td valign="middle">
 <img width="260" src="https://github-readme-stats-ten-xi-26.vercel.app/api/top-langs/?username=fdhill&layout=compact&theme=radical&langs_count=8&count_private=true" alt="Top Languages"/>
