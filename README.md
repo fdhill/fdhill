@@ -78,13 +78,13 @@
 <table>
 <tr>
 <td valign="middle">
-<img width="260" src="https://raw.githubusercontent.com/fdhill/github-stats/<branch>/generated/overview.svg" alt="Fadhil's GitHub stats"/>
+<img width="260" src="https://raw.githubusercontent.com/fdhill/github-stats/generated/overview.svg" alt="Fadhil's GitHub stats"/>
 </td>
 <td valign="middle">
   <img width="360" src="https://github-readme-streak-stats-rho-bice.vercel.app/?user=fdhill&theme=radical" alt="GitHub Streak & Total Contributions"/>
 </td>
 <td valign="middle">
-<img width="260" src="https://raw.githubusercontent.com/fdhill/github-stats/<branch>/generated/languages.svg" alt="Top Languages"/>
+<img width="260" src="https://raw.githubusercontent.com/fdhill/github-stats/generated/languages.svg" alt="Top Languages"/>
 </td>
 </tr>
 </table>
